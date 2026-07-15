@@ -167,7 +167,7 @@ smart-parking-system/
 - [ ] Integrasi dengan aplikasi mobile/web (monitoring jarak jauh via IoT/ESP8266)
 - [ ] Penyimpanan data ke database (histori kendaraan)
 - [ ] Sistem tiket otomatis dengan RFID/QR Code
-- [ ] Estimasi kapasitas dinamis menggunakan metode numerik (Bisection & Newton-Raphson)
+- [x] Estimasi kapasitas dinamis menggunakan metode numerik (Bisection & Newton-Raphson)
 
 ---
 
